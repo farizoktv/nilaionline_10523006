@@ -30,7 +30,7 @@
     <ul class="menus">
         <li><a href="./?adm=home">Home</a></li>
         <li><a href="../mahasiswa/mahasiswaView.php">Mahasiswa</a></li>
-        <li><a href="#">Dosen</a></li>
+        <li><a href="../dosen/dosenView.php">Dosen</a></li>
         <li><a href="../nilai/nilaiView.php">Nilai</a></li>
         <li><a href="../logout.php">Logout</a></li>
     </ul>
